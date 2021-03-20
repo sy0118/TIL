@@ -1,3 +1,3 @@
 # 20210320
-python
-jupyternotebook
+## python 
+## DALC 스터디
